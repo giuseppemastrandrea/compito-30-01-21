@@ -1,0 +1,3 @@
+3. Qual è la funzione del comando "git commit"? Git commit è un comando che serve ad aggiunge uno stato
+4. Che differenza c'è fra HEAD e index in un repository? La principale differenza è che l'index memorizza le informazioni, invece l'HEAD fa riferimento al ramo di sviluppo.
+5. Qual è la differenza fra l'operazione di pull e l'operazione di push? L'operazione di pull permette di aggiornare il repository locale con le modifiche applicate da remoto, invece l'operzione di push mette da remoto tutte le modifiche che vengono fatte in locale.
