@@ -1,5 +1,5 @@
 # compito-30-01-21
-1. Clonare il repository corrent
+1. Clonare il repository
 2. Creare un nuovo branch dal nome "feature/cognome-nome"
 3. Creare nel branch un file di testo o word 
 4. Rispondere alle seguenti domande: 
