@@ -1,0 +1,10 @@
+n4
+i. La funzione del comando "git clone" è di copiare il repository sul desktop.
+ii. La funzione del comando "git pull" è di aggiornare il repository locale con le modifiche fatte da remoto.
+
+n6
+iii. La funzione del comando "git commit" è di aggiungere uno stato.
+
+iiii. La copia locale del repository è composta da tre "alberi" gestiti da git. Il primo è la Directory di lavoro che contiene i file attuali. Il secondo è l' Index che fa da spazio di transito per i file e per finire l' head che punta all'ultimo commit fatto.
+
+iiii. La differenza tra l'operazione di push e quella di pull è che nella push si mettono a remoto tutte le modifiche fatte in locale mentre la pull è il contrario.
