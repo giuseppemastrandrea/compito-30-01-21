@@ -1,0 +1,5 @@
+1-Il comando git clone viene utilizzato per copiare un repository Git esistente da un server al computer locale
+2-Il comando pull serve per aggiornare la propria repository locale con quella online. 
+3-Il comando commit è l'azione che nel software Git permette di aggiungere, rimuovere e modificare i file del repository.
+4-l”index è uno spazio di appoggio nel quale puoi costruire mentre l'head ha il compito di tracciare qulasiasi movimento noi facciamo sulla repository
+5-Push significa spingere, ovvero gestire processi in anticipo rispetto al fabbisogno dei clienti. Pull, ovvero tirare, significa fare, al contrario, un'azione su richiesta.
