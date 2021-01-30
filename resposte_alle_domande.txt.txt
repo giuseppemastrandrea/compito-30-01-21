@@ -2,3 +2,12 @@ i. Git clone - è un comando di Git, la sua funzione è quella di clonare un pro
 
 ii. Git pull - è un comando di Git, ed è il contrario di push, serve 
 ad aggiornare i file che stanno nel repository prima di push-are.
+
+3. git commit - la sua funzione è quella di dare un ID, un nome ad
+un cambiamento effetuato al file.
+
+4. Differenza tra Index e Head - l'Index fa da spazio di transito per i files mentre l'HEAD punta all'ultimo commit effetuata.
+
+5. Pull e Push - 2 comandi di Git, pull svolge una funzione di aggiornare i file del repository(scarica dati),
+Push - invia i dati aggiornati dal repository locale a quello originale.
+
