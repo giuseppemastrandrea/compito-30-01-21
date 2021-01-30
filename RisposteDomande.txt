@@ -1,0 +1,2 @@
+i. Qual è la funzione del comando "git clone"? E' un comando per clonare il repository sulla propria macchia.
+ii. Qual è la funzione del comando "git pull"? E' un comando per aggiornare il repository locale con le modifiche fatte da remoto.
