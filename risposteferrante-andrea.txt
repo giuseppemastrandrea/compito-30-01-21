@@ -1,2 +1,5 @@
-1)La funzione del comando "git clone" è quello di copiare un repository  già esistente attraverso un URL
-2)La funzione del comando "git pull" serve ad aggiornare il repository locale con le modifiche fatte da remoto
+1)La funzione del comando "git clone" è quello di copiare un repository  già esistente attraverso un URL.
+2)La funzione del comando "git pull" serve ad aggiornare il repository locale con le modifiche fatte da remoto.
+3)La funzione del comando "git commit" serve per aggiungere uno stato ad un progetto.
+4)La differenza che passa tra Head e index è che Index fa da spazio di transito per i files rispestto a head che punta all'ultima commit fatta.
+5)La differenza che passa tra "git push" e "git pull" è la "pull" aggiornare il repository locale con le modifiche fatte da remoto rispetto a "push" che mette a remoto tutte le modifiche fatte in locale
