@@ -1,0 +1,2 @@
+1- git clone è un comando di Git utilizzato per copiare un repository già esistente tramite URL.
+2- git pull è un comando di Git che serve per aggiornare la propria repository locale con quella online.
