@@ -1,0 +1,6 @@
+DOMANDE
+1) Qual è la funzione del comando "git clone"?
+2) Qual è la funzione del comando "git pull"?
+RISPOSTE
+1) La funzione del comando "git clone" consiste nel copiare un repository già esistente tramite url.
+2) La funzione del comando "git ull" consiste nel aggiornare la propria repository locale con una online.
