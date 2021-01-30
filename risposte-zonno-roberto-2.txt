@@ -1,0 +1,5 @@
+3. La funzione del comando git commit è ò'aggiunta di uno stato;
+4. La differenza fra index e head di un repository è questa:
+   Index: è quel file che viene utilizzato come area di gestione temporanea tra la directory di lavoro e il repository e contiene un elenco ordinato di nomi di percorso;
+   Head: è quel file che contiene un riferimento al ramo in cui ci si trova attualmente e dice a Git cosa usare nel prossimo commit.
+5. L'operazione di push permette di inserire in remoto tutte le modifiche fatte in locale invece l'operazione di pull permette di aggiornare il repository locale con le modifiche fatte da remoto.
