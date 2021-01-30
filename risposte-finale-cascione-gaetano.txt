@@ -1,0 +1,20 @@
+RISPOSTE 
+1 - Qual è la funzione del comando "git clone"?
+
+La funzione del comando git clone è quello di copiare un repository già esistente tramite URL.
+
+2 - Qual è la funzione del comando "git pull"?
+
+La funzione del comando git pull è aggiornare il repository locale con le modifiche fatte da remoto, praticamente "sincronizzare".
+
+3 - Qual è la funzione del comando "git commit"?
+
+La funzione del comando git commit è aggiungere uno stato al proprio progetto.
+
+4 - Che differenza c'è fra HEAD e index in un repository?
+
+La differenza fra HEAD e index è che l'HEAD è il puntatore al riferimento di ramo corrente e all'ultimo fatto e l'index fa da spazio di tranisto per i files.
+
+5 - Qual è la differenza fra l'operazione di pull e l'operazione di push?
+
+La differenza fra git pull e git push è che pull aggiorna il repository locale con le modifiche fatte da remoto e push mette a remoto tutte le modifiche fatte in locale.
