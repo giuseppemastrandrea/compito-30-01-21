@@ -1,0 +1,6 @@
+La funzione del comando git commit è quella di poter aggiungere un commento o stato ad un branch
+--------------------------------------------------
+La index è uno spazio di transito per i files e l'head punta all'ultimo commit fatto
+--------------------------------------------------
+La differenza tra git pull e git push è che il push mette a remoto le modifiche fatte e pull per aggiornare le modifiche
+le modifiche che sono state effettuate in locale 
