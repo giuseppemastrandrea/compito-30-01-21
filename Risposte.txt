@@ -1,0 +1,4 @@
+1.	Con il comando "Git clone" si clonare completamente in locale un repository presente sul web
+	e quindi in remoto.
+2.	Con il comando "Git pull" ci permette di allineare il nostro repository locale con quello 
+	remoto per far si che non ci siano errori di sincronizzazione.
