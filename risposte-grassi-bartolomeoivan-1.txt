@@ -1,0 +1,3 @@
+1)Il comando git clone serve appunto a clonare il repository che abbiamo su remoto tramite link, su una locazione del nostro pc, quindi in locale.
+Si può clonare anche un repository locale indicando il percorso del repository.
+2)Il comando git pull serve ad aggiornare il repository locale alla commit più recente, quindi serve ad aggiornare il repository locale anche con quello online.
