@@ -1,0 +1,3 @@
+3)il comando git commit serve a svuotare l'index e trasferire il file nell'head con un commento, ma non nel repository remoto(serve il push).
+4)Nell'index troviamo le modifiche fatte al file ancora da commmittare(intermediario tra head e directory).
+5)git pull server per aggiornare il repository locale all'ultima commit e git push serve ad inviare al repository remoto le modifiche e commit dell'head che abbiamo in locale.
