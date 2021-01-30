@@ -1,0 +1,3 @@
+3- git commit è un comando di Git che permette di aggiungere un commento al proprio branch.
+4- HEAD punta all'ultimo commit fatto. L'index funge da spazio di transito per i files.
+5- git pull aggiorna la repository locale alla più recente. Git push mette a remoto tutte le modifiche fatte in locale.
