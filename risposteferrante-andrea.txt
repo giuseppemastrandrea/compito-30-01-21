@@ -1,0 +1,2 @@
+1)La funzione del comando "git clone" è quello di copiare un repository  già esistente attraverso un URL
+2)La funzione del comando "git pull" serve ad aggiornare il repository locale con le modifiche fatte da remoto
