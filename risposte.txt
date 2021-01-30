@@ -8,7 +8,25 @@
 
 	Il comando git pull, consente all'utente di aggiornare il suo repository 	locale alla commit più recente.
 
-    	
+   3. Qual è la funzione del comando "git commit"?
+	
+	Il comando git commit,tradotto dall'inglese "consegna" serve ad         	aggiungere i file dalla directory del progetto dall'index all'head,         	creando una nuova commit nel branch.
+
+    4. Che differenza c'è fra HEAD e index in un repository?
+
+	Sono più o meno simili, l'index è uno spazio di transito in locale,dove 	vengono , dove sono presenti i file aggiunti (git add <myfile>)
+	,mentre nell'head finiscono i file committati dall'utente.
+
+   5. Qual è la differenza fra l'operazione di pull e l'operazione di push?
+
+	Sono una l'inversa dell'altra, l'operazione di pull (git pull) ti 	consente di copiare i file sul tuo repository, mentre l'operazione
+	di push (git push) ti consente di caricare le modifiche presenti 	nell'HEAD al repository remoto.
+
+
+
+
+
+	
 
 	
 
