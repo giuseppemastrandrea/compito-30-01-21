@@ -1,0 +1,2 @@
+1. La funzione di git clone è la creazione di un duplicato del repository sul proprio computer.
+2. La funzione di git pull è l'aggiornamento del repository locale con le modifiche fatte da remoto.
