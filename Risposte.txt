@@ -1,4 +1,19 @@
-1.	Con il comando "Git clone" si clonare completamente in locale un repository presente sul web
+1.	Con il comando "git clone" si clona completamente in locale un repository presente sul web
 	e quindi in remoto.
-2.	Con il comando "Git pull" ci permette di allineare il nostro repository locale con quello 
+
+2.	Il comando "git pull" ci permette di allineare il nostro repository locale con quello 
 	remoto per far si che non ci siano errori di sincronizzazione.
+
+3.	Il comando "git commit" ci permette ci creare un "punto di salvataggio" di ciò che è stato messo 
+	nell' INDEX. Solo i file inseriti nell'INDEX saranno committati.
+	Inoltre quando si effettua una commit si può aggiungere un commento con il contenuto delle modifiche
+	così da avere un repository più leggibile.
+
+4.	Nell' INDEX vengono salvati tutti i file modificati non ancora committati, inoltre l' INDEX
+	è locale e non remoto.
+	Nell' HEAD sono salvate tutte le modifiche dei file che sono stati committati, inoltre
+	l' HEAD è remoto.
+
+5.	Il comando di "pull" copia tutte le modifiche dei file che ci sono nel repository remoto
+	e le copia nel repository locale; mentre il comando di "push" copia le modifiche che ci sono 
+	nell' index e le inserisce nell' head.
