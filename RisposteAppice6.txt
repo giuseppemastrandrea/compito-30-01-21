@@ -1,0 +1,8 @@
+3)QUal è la funzione del comando "git commit"?
+3: il comando "git commit" serve per poter aggiungere uno stato, rimovere o modificare i file del repository
+4)Che differenza c'è fra HEAD e index in un repository? 
+4:l'index è un punto di transito dei files;
+l'Head è un puntatore che fa da riferimento per il ramo corrente
+5)Qual è la differenza fra l'operazione di pull e l'operazione di push?
+5:l'operazione di pull la usiamo per aggiornare il repository locale con le modifiche da remoto;
+l'operazione di push invece serve per mettere a remoto le modifiche fatte da locale e a pushare anche il branch se non è già pushato;

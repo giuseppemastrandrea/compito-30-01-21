@@ -1,6 +1,4 @@
 1) Qual è la funzione del comando "git clone"?
 1: il comando " git clone " serve per copiare un repository remoto a locale (sulla propria macchina)
-
 2)Qual è la funzione del comando "git pull"?
-
-2: git pull server per aggiornare un repository locale con le modifiche effettuare da remoto
+2: git pull serve per aggiornare un repository locale con le modifiche effettuare da remoto
