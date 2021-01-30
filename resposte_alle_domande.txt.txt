@@ -1,0 +1,4 @@
+i. Git clone - è un comando di Git, la sua funzione è quella di clonare un progetto da un repository.
+
+ii. Git pull - è un comando di Git, ed è il contrario di push, serve 
+ad aggiornare i file che stanno nel repository prima di push-are.
