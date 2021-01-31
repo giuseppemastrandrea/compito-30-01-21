@@ -1,0 +1,8 @@
+Qual è la funzione del comando "git clone"?
+
+Il comando git clone ha la funzione per copiare un repository Git esistente da un server al computer locale.
+
+Qual è la funzione del comando "git pull"?
+
+Il comando pull ha la funzione di aggiornare la propria repository locale con quella online.
+
