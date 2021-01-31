@@ -1,0 +1,11 @@
+Qual è la funzione del comando "git commit"?
+
+Il comando commit ha la funzione di aggiungere, rimuovere e modificare i file del repository nel software Git.
+
+Che differenza c'è fra HEAD e index in un repository? 
+
+Index fa da spazio di transito per i files mentre l'HEAD punta all'ultimo commit.
+
+Qual è la differenza fra l'operazione di pull e l'operazione di push?
+
+L'operazione di pull applica le modifiche da remoto a locale, mentre l'operazione di push  applica le modifiche da locale a remoto.
